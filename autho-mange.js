@@ -62,7 +62,8 @@ function (user,context,callback) {
       'donesi.com',
       'pizza.hu',
       'hipmenu.ro',
-      'hungerstation.com'
+      'hungerstation.com',
+      'appetito24.com'
     ],
     userHasAccess=false;
   
