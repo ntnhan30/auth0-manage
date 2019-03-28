@@ -63,7 +63,8 @@ function (user,context,callback) {
       'pizza.hu',
       'hipmenu.ro',
       'hungerstation.com',
-      'appetito24.com'
+      'appetito24.com',
+      'trycarriage.com'
     ],
     userHasAccess=false;
   
