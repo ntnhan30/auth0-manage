@@ -24,6 +24,7 @@ function (user,context,callback) {
     var allowed_domains = [
       'deliveryhero.com',
       'deliveryhero.fi',
+      'deliveryhero.co.kr',
       'lieferheld.de',
       'foodora.com',
       'foodora.ca',
