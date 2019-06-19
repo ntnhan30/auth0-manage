@@ -28,6 +28,7 @@ function (user,context,callback) {
     'foodora.com',
     'foodora.ca',
     'foodora.at',
+    'foodora.se',
     'foodora.no',
     'foodpanda.in',
     'foodpanda.bg',
