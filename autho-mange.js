@@ -25,6 +25,7 @@ function (user,context,callback) {
     'deliveryhero.com',
     'deliveryhero.fi',
     'deliveryhero.co.kr',
+    'deliveryhero.at',
     'foodora.com',
     'foodora.ca',
     'foodora.at',
