@@ -40,6 +40,7 @@ function (user,context,callback) {
     'foodpanda.tw',
     'foodpanda.co.th',
    'foodpanda.com.bd',
+   'foody.com.cy',
     'clickdelivery.com',
     'clickdelivery.gr',
     'e-food.com',
